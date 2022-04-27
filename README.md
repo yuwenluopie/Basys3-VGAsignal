@@ -5,3 +5,5 @@
 --All functions asked in Labs is completed.<br>
 --CE264 Digital Systems Design.<br>
 --Thanks for XLR, a beautiful girl living nearside door,to teach me and give me encourage!<br>
+
+## Using tips
