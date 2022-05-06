@@ -6,6 +6,9 @@
 --CE264 Digital Systems Design.<br>
 --Thanks for XLR, a beautiful girl living nearside door,to teach me and give me encourage!<br>
 
+## Preformance
+https://www.youtube.com/watch?v=GE7h9XSa9vw&feature=youtu.be or https://www.bilibili.com/video/BV1H34y1e7oi?share_source=copy_web
+
 ## Overview
 This is flow chart show the design idea for this project
 ![XmindofVGA](https://user-images.githubusercontent.com/88228465/166400132-911be76d-f2ba-4990-b8dd-f23b497a98b7.jpg)<br>
