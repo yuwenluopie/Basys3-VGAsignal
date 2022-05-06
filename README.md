@@ -5,3 +5,8 @@
 --All functions asked in Labs is completed.<br>
 --CE264 Digital Systems Design.<br>
 --Thanks for XLR, a beautiful girl living nearside door,to teach me and give me encourage!<br>
+
+## Overview
+This is flow chart show the design idea for this project
+![XmindofVGA](https://user-images.githubusercontent.com/88228465/166400132-911be76d-f2ba-4990-b8dd-f23b497a98b7.jpg)<br>
+The top module of this experiment consists of seven sub-modules, and their relationship is shown in flow chart. In this flow chart, the purple block represents hardware, the blue block represents the native integrated system on Basys3 board, the yellow block represents the self-designed sub-module, and the red line represents physical connection.
